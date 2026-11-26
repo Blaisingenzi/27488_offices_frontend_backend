@@ -1,0 +1,4 @@
+library-frontend/node_modules/
+library-frontend/dist/
+Backend/target/
+.env
